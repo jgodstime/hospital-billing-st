@@ -134,17 +134,19 @@ class Register extends Model
         <table class="table table-hover table-striped">
             <thead>
                 <tr>
+                <!-- id_number,blood_transfusion,lab_test_fee,surgery_fee,drug_fee,xray_fee,medical_supplies_fee,rehabilitation_fee,total,created_at -->
+
                     <th>Patientce Name</th>
                     <th>Id Number</th>
-                    <th>Bed space fee</th>
                     <th>Blood transfusion</th>
                     <th>Lab test fee</th>
                     <th>Surgery fee</th>
                     <th>Drugs fee</th>
                     <th>Xray fee</th>
-                    <th>Medica supplies fee</th>
+                    <th>Medical supplies fee</th>
                     <th>Rehabiitation fee</th>
                     <th>Total fee</th>
+                    <th>Created at</th>
                 
                   
 
